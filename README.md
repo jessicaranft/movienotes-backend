@@ -1,12 +1,12 @@
 # Explorer - Stage 08 - Node.js Web App
 
-![preview](https://github.com/jessicaranft/Explorer-Stage08-MovieNotes/blob/main/.github/preview.png)
+![preview](https://github.com/jessicaranft/movienotes-backend/blob/main/.github/preview.png)
 
 ## Description
 Node.js project for the challenge "Node Application" of the Rocketseat bootcamp.
 
 It's the back-end for user registration.
-See the front-end here: https://github.com/jessicaranft/Explorer-Stage09-RocketMovies
+See the front-end here: https://github.com/jessicaranft/movienotes-frontend
 
 - Registration system with name, email and password encryption;
 - User data update system;
