@@ -3,15 +3,13 @@
 ![preview](https://github.com/jessicaranft/movienotes-backend/blob/main/.github/preview.png)
 
 ## Description
-Node.js project for the challenge "Node Application" of the Rocketseat bootcamp.
+Back-end Node.js project for the RocketMovies web app challenge.
 
-It's the back-end for user registration.
-See the front-end here: https://github.com/jessicaranft/movienotes-frontend
+Front-end here:
+- https://github.com/jessicaranft/movienotes-frontend
 
-- Registration system with name, email and password encryption;
-- User data update system;
-- Note registration system about movies the user watched;
-- Each note can receive tags for filtering.
+Live app here:
+- https://rocketmovies-frontend.netlify.app/
 
 ## Characteristics:
 - User registration;
